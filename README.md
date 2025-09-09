@@ -30,3 +30,11 @@ Gestionarea și îmbunătățirea continuă a codului prin refactorizare și apl
 Română (nativ)
 Engleză (avansat)
 Rusa (avansat) 
+
+## Interese:
+
+Programare și tehnologii emergente
+Contribuții open-source
+Participarea la hackathoane
+Gaming și dezvoltare de jocuri indie
+Sporturi în aer liber (alpinism, ciclism, drumeții)
