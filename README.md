@@ -21,3 +21,7 @@ Implementarea API-urilor RESTful și integrarea acestora cu aplicațiile front-e
 Colaborarea cu echipele de design și QA pentru a asigura livrarea unui produs final de calitate
 
 Gestionarea și îmbunătățirea continuă a codului prin refactorizare și aplicație de bune practici de programare
+
+## Studii
+### CUTM
+### Gimnaziul Public
