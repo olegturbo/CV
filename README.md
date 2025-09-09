@@ -25,3 +25,8 @@ Gestionarea și îmbunătățirea continuă a codului prin refactorizare și apl
 ## Studii
 ### CUTM
 ### Gimnaziul Public
+
+## Limbi Vorbite
+Română (nativ)
+Engleză (avansat)
+Rusa (avansat) 
